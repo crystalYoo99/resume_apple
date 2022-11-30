@@ -32,7 +32,7 @@ nav{
 }
 
 .fixed-top {
-  background-image: linear-gradient(to right, rgba(94, 168, 223, 1.0), rgba(0, 116, 168, 1.0));
+  background-image: linear-gradient(to right, rgba(186,148,209, 1.0), rgba(127,102,157, 1.0));
 }
 
 .btn-apply {
@@ -41,7 +41,7 @@ nav{
 }
 
 .cra-gradient-color {
-  background-image: linear-gradient(to right, rgba(94, 168, 223, 1.0), rgba(0, 116, 168, 1.0)) !important; 
+  background-image: linear-gradient(to right, rgba(186,148,209, 1.0), rgba(127,102,157, 1.0)) !important; 
 }
 
 .cra-section-intro {
@@ -66,13 +66,13 @@ nav{
 }
 
 .cra-color {
-  background-color: rgba(94, 168, 223, 1.0) !important;
+  background-color: rgba(127,102,157, 1.0) !important;
 }
 .cra-font-white {
   color: white;
 }
 .cra-font-color {
-  color: rgba(94, 168, 223, 1.0);
+  color: rgba(127,102,157, 1.0);
 }
 .cra-font-black {
   color: black;
@@ -282,7 +282,7 @@ nav{
 }
 
 .cra-img {
-  background-color: rgba(94, 168, 223, 1.0) !important;
+  background-color: rgba(127,102,157, 1.0) !important;
   padding: 0.2rem;
 }
 
